@@ -1,3 +1,7 @@
+#NAME:KYOMUHENDO ESTHER DIANA
+#REGISTRATION NUMBER:16/U/516
+#STUDENT NUMBER:216000728
+#COMPUTER YEAR ONE
 import calendar #imports the calendar module from the python modules
 from datetime import datetime
 now = datetime.now()#gets the current date and time
